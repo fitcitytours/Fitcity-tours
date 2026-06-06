@@ -1,0 +1,20 @@
+{
+  "name": "Fit City Tours — Operations",
+  "short_name": "Fit City",
+  "description": "Operations hub for Fit City Tours guides and admin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#0d1b2a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn.prod.website-files.com/5f0aa92f1293a2eca45a672a/5fb863560208df19ed9a2ef2_fit-city-tours-primary-lockup-inverted-1-rgb-1080px%40300ppi.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "en-AU"
+}
